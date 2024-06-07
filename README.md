@@ -7,5 +7,6 @@ Lorem ipso sum. Lorem ipso sum. Lorem ipso sum. **Lorem ipso sum**. Lorem ipso s
 * [subpage1](subpage1.md)
 * [subpage2](subpage2.md)
 * [subpage3](subpage3.md)
-* [deep page](deep1/deep2/README.md)
+* [deeppage1](deep1/deep2/README.md)
+* [deeppage2](deep1/deep2/testpage.md)
   
