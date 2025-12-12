@@ -1,4 +1,4 @@
 ---
-name: sub page
+name: sub page renamed
 syntax: markdown/1.2
 ---
