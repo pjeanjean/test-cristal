@@ -2,5 +2,5 @@
 name: sub hello
 syntax: markdown/1.2
 ---
-Te
+Text
 
