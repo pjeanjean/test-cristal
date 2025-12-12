@@ -1,5 +1,5 @@
 ---
-name: Test Name
+name: Test ReName
 syntax: markdown/1.2
 ---
 # Sub Page 1
