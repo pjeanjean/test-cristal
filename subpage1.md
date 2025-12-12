@@ -1,5 +1,5 @@
 ---
-name: ""
+name: Test Name
 syntax: markdown/1.2
 ---
 # Sub Page 1
